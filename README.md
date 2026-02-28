@@ -22,3 +22,6 @@ Hardware + Software Co-Design Project
 cd priority_project
 source venv/bin/activate
 python ui_app.py
+![UI Screenshot](static/ui.png)
+
+![Waveform](static/waveform.png)
